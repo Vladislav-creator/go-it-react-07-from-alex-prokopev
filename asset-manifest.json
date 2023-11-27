@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/go-it-react-07-from-alex-prokopev/static/css/main.356f2d08.css",
+    "main.js": "/go-it-react-07-from-alex-prokopev/static/js/main.ccefe721.js",
+    "index.html": "/go-it-react-07-from-alex-prokopev/index.html",
+    "main.356f2d08.css.map": "/go-it-react-07-from-alex-prokopev/static/css/main.356f2d08.css.map",
+    "main.ccefe721.js.map": "/go-it-react-07-from-alex-prokopev/static/js/main.ccefe721.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.356f2d08.css",
+    "static/js/main.ccefe721.js"
+  ]
+}
